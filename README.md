@@ -4,7 +4,9 @@ git init
 git clone link repo
 code .
 kerjakan bagianmu
-git add file yang kamu ubah
+git branch namabranch ytta
+git switch namabranch
+git add .
 if file tidak ada cd dulu ke folder repo nya
 git commit -m "aku sudah kerja"
 git remote add origin link repo
