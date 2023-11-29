@@ -10,7 +10,7 @@ git add .
 if file tidak ada cd dulu ke folder repo nya
 git commit -m "aku sudah kerja"
 git remote add origin link repo
-git push
+git push -u origin nama branch
 
 warning!!!! 
 pastikan akun github nya sudah kamu ganti
