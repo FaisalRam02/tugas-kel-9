@@ -2,6 +2,7 @@ how to push
 fork repo dulu ygy
 git init
 git clone link repo
+cd dulu ke folder
 code .
 kerjakan bagianmu
 git branch namabranch ytta
