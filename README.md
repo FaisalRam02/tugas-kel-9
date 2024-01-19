@@ -33,3 +33,18 @@ git push origin HEAD:master
 git branch -D tmp
 
 kalau yang error nya main yah ganti jadi main kocak
+
+nigga kalau akun lu nabrak
+43
+
+1- configure your new username and email with
+
+change username: git config username.user <username>
+
+change email: git config username.email <email>
+
+2- run this command git commit --amend -C HEAD --reset-author
+
+3- run this command git push --force
+
+This will change the other in the last commit.
