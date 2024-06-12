@@ -42,6 +42,9 @@ nigga kalau akun lu nabrak
 change username: git config username.user <username>
 
 change email: git config username.email <email>
+OR
+git config --global user.name "Full Name"
+git config --global user.email "email@address.com"
 
 2- run this command git commit --amend -C HEAD --reset-author
 
